@@ -7,7 +7,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 const Card = styled.div`
-  background: #f0f0f0;
+  background: #fff;
   color: #444;
   padding: 20px;
   margin-bottom: 12px;

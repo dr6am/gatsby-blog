@@ -1,9 +1,8 @@
 ---
-title: 'My First AMA'
+title: 'my playlist'
 date: '2017-08-21'
-description: 'My first AMA :)'
+description: 'my playlist for study'
 ---
 
-Thank you everyone who enjoyed the AMA! It was my first one and I'd love to do it again.
+Study Chill music [click there](https://www.youtube.com/watch?v=7F2KT6QcRn8&list=PLa2a9FJY91_1iH0u_fDfkLYf5gcLNr7Hl) 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DXJO3AraeMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
